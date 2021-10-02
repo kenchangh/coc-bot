@@ -1,4 +1,5 @@
-import thread
+import thread 
+from tkinter import * as tk
 # init environment
 def startCOC():
     # switch to Bluestacks, if Bluestacks is not running, start it
